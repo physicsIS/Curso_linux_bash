@@ -65,7 +65,8 @@ Solo se recomienda:
 
 **Barnald Bocker Brenes**  
 **Isaac Flores Ureña**
-Estudiante de Física  
+
+Estudiantes de Física  
 Universidad de Costa Rica
 
 ---
@@ -77,4 +78,3 @@ Si deseas utilizar o adaptar el contenido, por favor contacta al proponente.
 
 ---
 
-*Última actualización: Diciembre 2025*
