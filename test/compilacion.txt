@@ -1,0 +1,13 @@
+Isaac nacio un 28 de diciembre del 2004
+Barnald no sabia eso de Isaac
+santiago
+compilacion.txt
+constanciabackup.txt
+constanciaisaac.txt
+README.md
+Tema_01
+Tema_02
+Tema_04
+test
+test2.txt
+test.txt
